@@ -1,0 +1,14 @@
+{
+  "name": "Redirector",
+  "description": "HTTP Redirector",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "async": "*",
+    "express": "3.x",
+    "csv": "*"
+  }
+}

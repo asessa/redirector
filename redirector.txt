@@ -1,0 +1,1 @@
+"www.sampledomain.com","http://www.otherdomain.com"
